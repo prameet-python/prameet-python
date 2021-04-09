@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prameet-python
 - 👀 I’m interested in ML
-- 🌱 I’m currently learning Python,OpenCV,ML,Django and many more
+- 🌱 I’m currently learning Python, OpenCV, ML, Django and more
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
